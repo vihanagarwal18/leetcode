@@ -11,14 +11,13 @@ public:
                     count++;
                 } 
                 else{
-                    temp+=to_string(count)+res[j - 1];
+                    temp+=to_string(count)+res[j-1];
                     count=1;
                 }
             }
             temp+=to_string(count)+res.back(); // add the last character
             res=temp;
         }
-        
         return res;
     }
 };
