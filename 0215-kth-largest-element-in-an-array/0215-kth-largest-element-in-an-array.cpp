@@ -8,9 +8,6 @@ public:
                 q.pop();
             }
         }
-        // while(q.size()>k){
-        //     q.pop();
-        // }
         return q.top();
     }
 };
