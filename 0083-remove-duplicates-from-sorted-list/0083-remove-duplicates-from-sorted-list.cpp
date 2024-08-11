@@ -20,8 +20,7 @@ public:
             if(u.find(temp->val)!=u.end()){
                 //this is duplicate
                 prev->next=temp->next;
-                if(temp->next!=NULL) temp=temp->next;
-                else temp=temp->next;
+                temp=temp->next;
             }
             else{
                 u.insert(temp->val);
