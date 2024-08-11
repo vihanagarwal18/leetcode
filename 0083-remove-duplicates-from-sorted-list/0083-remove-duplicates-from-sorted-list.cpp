@@ -12,14 +12,24 @@ class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(head==NULL || head->next==NULL) return head;
+        unordered_set<int> u;
+        u.insert(head->val);
         ListNode* temp=head->next;
-        if(head->val==temp->val){
-            return deleteDuplicates(temp);
+        ListNode* prev=head;
+        while(temp!=NULL){
+            if(u.find(temp->val)!=u.end()){
+                //this is duplicate
+                prev->next=temp->next;
+                if(temp->next!=NULL) temp=temp->next;
+                else temp=temp->next;
+            }
+            else{
+                u.insert(temp->val);
+                prev=temp;
+                temp=temp->next;
+            }
         }
-        else{
-            head->next=deleteDuplicates(temp);
-            return head;
-        }
+        return head;
 
     }
 };
