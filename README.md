@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vihanagarwal18/leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 ## Backtracking
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
