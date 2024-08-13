@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 ## Tree
