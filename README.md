@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 ## Stack
 |  |
 | ------- |
