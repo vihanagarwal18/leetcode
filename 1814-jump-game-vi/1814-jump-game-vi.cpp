@@ -27,11 +27,10 @@ public:
         deque<int> dq;
         dq.push_back(n-1);
         for (int i = n - 2; i >= 0; --i) {
-            // Ensure the deque only contains indices within the range [i+1, i+k]
-            if (!dq.empty() && dq.front() > i + k) {
+            if (!dq.empty() && dq.front() > i + k) {//i+k se bhar jate hee pop kar dege
+                //ek baar main ek hee bhar jayega ya ek bhi nhi
                 dq.pop_front();
             }
-            // memo[i] is nums[i] + the maximum dp[j] for j in the range [i+1, i+k]
             memo[i] = nums[i] + memo[dq.front()];
             // Maintain the deque as a decreasing order of dp values
             while (!dq.empty() && memo[i] >= memo[dq.back()]) {
