@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vihanagarwal18/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
