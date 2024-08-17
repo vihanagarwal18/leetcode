@@ -7,14 +7,10 @@ public:
         int count=0;
         while(i<=j){
             if(people[i]+people[j]<=limit && i!=j){
-                count++;
                 i++;
-                j--;
             }
-            else{
-                count++;
-                j--;
-            }
+            count++;
+            j--;
         }
         return count;        
     }
