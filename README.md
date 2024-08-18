@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/vihanagarwal18/leetcode/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vihanagarwal18/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1033-broken-calculator](https://github.com/vihanagarwal18/leetcode/tree/master/1033-broken-calculator) |
 ## Sliding Window
