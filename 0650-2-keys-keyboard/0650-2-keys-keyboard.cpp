@@ -6,18 +6,15 @@ public:
         int copyy=INT_MAX;
         if (current!=copy) {
             int temp = solve(current, current, n, memo);
-            if (temp != INT_MAX) {
-                copyy = 1 + temp;
-            }
+            if (temp!=INT_MAX) copyy=1+temp;
         }
         int paste = INT_MAX;
         if(current+copy<= n) {
             int temp = solve(current + copy, copy, n, memo);
-            if (temp != INT_MAX) {
-                paste = 1 + temp;
-            }
+            if (temp!=INT_MAX) paste=1+temp;
         }
-        return memo[current][copy] = min(copyy, paste);
+        memo[current][copy] = min(copyy, paste);
+        return memo[current][copy];
     }
 
     int minSteps(int n) {
