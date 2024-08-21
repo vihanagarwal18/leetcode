@@ -14,6 +14,6 @@ public:
             
             maxcount=max(maxcount,i-left+1);
         }
-        return maxcount-1;
+        return maxcount-1;  //minimum one deletion need to be made
     }
 };
