@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
+| [1833-find-the-highest-altitude](https://github.com/vihanagarwal18/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vihanagarwal18/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/vihanagarwal18/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
+| [1833-find-the-highest-altitude](https://github.com/vihanagarwal18/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Game Theory
 |  |
 | ------- |
