@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/vihanagarwal18/leetcode/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/vihanagarwal18/leetcode/tree/master/1466-jump-game-v) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vihanagarwal18/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vihanagarwal18/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
 | [1466-jump-game-v](https://github.com/vihanagarwal18/leetcode/tree/master/1466-jump-game-v) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vihanagarwal18/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Stack
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vihanagarwal18/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
