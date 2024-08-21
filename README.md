@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vihanagarwal18/leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
