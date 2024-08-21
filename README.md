@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vihanagarwal18/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vihanagarwal18/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/vihanagarwal18/leetcode/tree/master/0605-can-place-flowers) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vihanagarwal18/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/vihanagarwal18/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/vihanagarwal18/leetcode/tree/master/0283-move-zeroes) |
