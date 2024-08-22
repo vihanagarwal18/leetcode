@@ -11,14 +11,16 @@ public:
             m2[p]++;
         }
         if(m1==m2) return true;
-        unordered_set<char> u1(word1.begin(),word1.end());
-        unordered_set<char> u2(word2.begin(),word2.end());
+        unordered_set<char> u1;
+        unordered_set<char> u2;
         multiset<int> s1;
         multiset<int> s2;
         for(auto& p:m1){
+            u1.insert(p.first);
             s1.insert(p.second);
         }
         for(auto& p:m2){
+            u2.insert(p.first);
             s2.insert(p.second);
         }
         if(u1==u2 && s1==s2) return true;
