@@ -2,8 +2,7 @@ class RecentCounter {
 public:
     deque<pair<int,int>> q;
     RecentCounter() {
-        // q.push_front({-3000,0});
-        // q.pop_front();
+        
     }
     
     int ping(int t) {
