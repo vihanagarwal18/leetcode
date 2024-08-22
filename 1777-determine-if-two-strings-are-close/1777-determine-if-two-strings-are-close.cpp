@@ -11,8 +11,8 @@ public:
             m2[p]++;
         }
         if(m1==m2) return true;
-        unordered_set<char> u1;
-        unordered_set<char> u2;
+        set<char> u1;
+        set<char> u2;
         multiset<int> s1;
         multiset<int> s2;
         for(auto& p:m1){
