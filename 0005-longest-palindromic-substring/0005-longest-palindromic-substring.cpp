@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool ispalindrome(int start, int end, string& s, vector<vector<int>>& memo) {
-        if (start >= end) return true; 
+        if (start >= end) return memo[start][end]=true; 
         if (memo[start][end] != -1) return memo[start][end]; 
         if (s[start]==s[end]) {
             return memo[start][end] =ispalindrome(start+1,end-1,s,memo);
