@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/vihanagarwal18/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/vihanagarwal18/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/vihanagarwal18/leetcode/tree/master/0443-string-compression) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/vihanagarwal18/leetcode/tree/master/1252-break-a-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vihanagarwal18/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/vihanagarwal18/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 ## Monotonic Queue
