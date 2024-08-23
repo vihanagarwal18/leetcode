@@ -34,7 +34,6 @@ public:
         return to_string(numerator) + "/" + to_string(denominator);
     }
     int gcd(int a, int b) {
-        // return b == 0 ? a : gcd(b, a % b);
         if(b==0) return a;
         return gcd(b,a%b);
     }
