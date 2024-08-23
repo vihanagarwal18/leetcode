@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vihanagarwal18/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vihanagarwal18/leetcode/tree/master/0038-count-and-say) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vihanagarwal18/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vihanagarwal18/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vihanagarwal18/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/vihanagarwal18/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/0151-reverse-words-in-a-string) |
