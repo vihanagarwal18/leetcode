@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/vihanagarwal18/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/vihanagarwal18/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/vihanagarwal18/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1428-jump-game-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1428-jump-game-iii) |
