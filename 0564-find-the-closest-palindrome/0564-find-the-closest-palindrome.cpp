@@ -14,7 +14,7 @@ public:
         // Prefix ko thoda adjust karke variations
         for (int i = -1; i <= 1; ++i) {
             string p = to_string(prefix + i);
-            string temp=string(p.rbegin()+(len%2),p.rend());
+            string temp=string(p.rbegin()+(len%2),p.rend()); //agar odd length hain toh beech wala nhi lena
             string candidate = p + temp;  // Mirror karke palindrome banao
             candidates.push_back(stoll(candidate));
         }
