@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vihanagarwal18/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/vihanagarwal18/leetcode/tree/master/0443-string-compression) |
+| [0564-find-the-closest-palindrome](https://github.com/vihanagarwal18/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vihanagarwal18/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vihanagarwal18/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0564-find-the-closest-palindrome](https://github.com/vihanagarwal18/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/vihanagarwal18/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
