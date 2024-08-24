@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/vihanagarwal18/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/vihanagarwal18/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Data Stream
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
+| [0904-leaf-similar-trees](https://github.com/vihanagarwal18/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1428-jump-game-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1428-jump-game-iii) |
 ## Breadth-First Search
 |  |
