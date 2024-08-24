@@ -4,7 +4,6 @@ public:
         //this graph is adj matrix
         //terminal node has outdegree as 0
         int n=graph.size();
-        // vector<int> indegree(n,0);
         vector<int> outdegree(n,0);
         vector<vector<int>> adj(n); //will store reverse adj means if 0 has 1 then we can reach 0 from 1
         for (int i=0;i<n;i++) {
@@ -20,12 +19,10 @@ public:
             if(outdegree[i]==0) {
                 terminalnodes.insert(i);
                 q.push(i);
-                // result.push_back(i);
             }
         }
         while(!q.empty()){
-            int node=q.front();    
-            // result.push_back(node);
+            int node=q.front(); 
             terminalnodes.insert(node);
             q.pop();
             for(auto& p:adj[node]){
