@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/vihanagarwal18/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vihanagarwal18/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vihanagarwal18/leetcode/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0460-lfu-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0460-lfu-cache) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/vihanagarwal18/leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0392-is-subsequence) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vihanagarwal18/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
+| [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/vihanagarwal18/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -309,8 +313,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 ## Recursion
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vihanagarwal18/leetcode/tree/master/0394-decode-string) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
