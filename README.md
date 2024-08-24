@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0112-path-sum) |
 | [1428-jump-game-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/vihanagarwal18/leetcode/tree/master/1447-jump-game-iv) |
