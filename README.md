@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/vihanagarwal18/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vihanagarwal18/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1428-jump-game-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/vihanagarwal18/leetcode/tree/master/1447-jump-game-iv) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vihanagarwal18/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/vihanagarwal18/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/vihanagarwal18/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1466-jump-game-v](https://github.com/vihanagarwal18/leetcode/tree/master/1466-jump-game-v) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
