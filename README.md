@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vihanagarwal18/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0460-lfu-cache) |
 ## Array
 |  |
