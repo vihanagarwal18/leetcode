@@ -7,8 +7,8 @@ public:
         for(int i=index;i<n;i++){
             string newstring=s.substr(index,i-index+1);
             if(wordset.find(newstring)!=wordset.end() && solve(i+1,n,memo,s,wordset)){
-                memo[index]=true;
-                return true;
+                return memo[index]=true;
+                
             }
         }
         return memo[index]=false;
