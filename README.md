@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 | [1833-find-the-highest-altitude](https://github.com/vihanagarwal18/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vihanagarwal18/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/vihanagarwal18/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1428-jump-game-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/vihanagarwal18/leetcode/tree/master/1447-jump-game-iv) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 ## Queue
 |  |
 | ------- |
@@ -394,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/vihanagarwal18/leetcode/tree/master/1325-path-with-maximum-probability) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
