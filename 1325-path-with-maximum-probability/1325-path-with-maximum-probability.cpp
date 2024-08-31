@@ -16,14 +16,11 @@ public:
         while (!pq.empty()) {
             auto p = pq.top();
             pq.pop();
-            
             double prob = p.first;
             int node = p.second;
-            
             if (node == end_node) {
                 return prob;
             }
-            
             for (auto& n : adj[node]) {
                 int next_node = n.first;
                 double edgeprob = n.second;
