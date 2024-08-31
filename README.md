@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/vihanagarwal18/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
+| [2413-smallest-number-in-infinite-set](https://github.com/vihanagarwal18/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2803-modify-graph-edge-weights](https://github.com/vihanagarwal18/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Quickselect
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-jump-game-iv](https://github.com/vihanagarwal18/leetcode/tree/master/1447-jump-game-iv) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vihanagarwal18/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/vihanagarwal18/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/vihanagarwal18/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/vihanagarwal18/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/vihanagarwal18/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
 | ------- |
