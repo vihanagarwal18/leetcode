@@ -17,7 +17,7 @@ public:
         }
         int result=0;
         vector<int> visited(n,0);
-        // visited[0]=1;
+        visited[0]=1;
         dfs(result,adj,0,visited);
         return result;
     }
