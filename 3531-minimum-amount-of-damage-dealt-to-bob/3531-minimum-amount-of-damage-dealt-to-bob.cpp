@@ -9,6 +9,7 @@ public:
         vector<int> time_to_kill(n);
         for (int i = 0; i < n; i++) {
             time_to_kill[i] = (health[i] + power - 1) / power; // Equivalent to ceil(health[i] / power)
+            //6 ko marne main 2 time lagega 4 ki power se toh uske liye
         }
 
         vector<pair<double, int>> ratio(n);
