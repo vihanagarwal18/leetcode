@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/vihanagarwal18/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vihanagarwal18/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vihanagarwal18/leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/vihanagarwal18/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vihanagarwal18/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
