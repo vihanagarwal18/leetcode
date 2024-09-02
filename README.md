@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 | [1833-find-the-highest-altitude](https://github.com/vihanagarwal18/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vihanagarwal18/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/vihanagarwal18/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/vihanagarwal18/leetcode/tree/master/0735-asteroid-collision) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vihanagarwal18/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vihanagarwal18/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vihanagarwal18/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Tree
 |  |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
 | [1833-find-the-highest-altitude](https://github.com/vihanagarwal18/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
