@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vihanagarwal18/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/vihanagarwal18/leetcode/tree/master/0399-evaluate-division) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/vihanagarwal18/leetcode/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vihanagarwal18/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
