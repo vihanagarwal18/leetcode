@@ -7,6 +7,7 @@ public:
                 swap(matrix[i][j],matrix[j][i]);
             }
         }
+        //transpose karke harr row ko reverse
         for(int i=0;i<n;i++){
             reverse(matrix[i].begin(),matrix[i].end());
         }
