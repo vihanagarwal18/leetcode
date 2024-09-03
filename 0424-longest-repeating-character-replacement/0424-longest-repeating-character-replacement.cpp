@@ -3,7 +3,6 @@ public:
     int characterReplacement(string s, int k) {
         int maxfreq=0;
         int ans=0;
-        int remain=0;
         int j=0;
         int n=s.size();
         vector<int>freq(26,0);
