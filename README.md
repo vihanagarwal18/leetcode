@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/vihanagarwal18/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0898-transpose-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/vihanagarwal18/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0735-asteroid-collision](https://github.com/vihanagarwal18/leetcode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/0898-transpose-matrix) |
+| [0906-walking-robot-simulation](https://github.com/vihanagarwal18/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vihanagarwal18/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vihanagarwal18/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
+| [0906-walking-robot-simulation](https://github.com/vihanagarwal18/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vihanagarwal18/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1319-unique-number-of-occurrences](https://github.com/vihanagarwal18/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
