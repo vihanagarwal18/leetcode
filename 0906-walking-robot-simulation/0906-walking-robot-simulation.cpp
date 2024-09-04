@@ -7,7 +7,9 @@ public:
         for (auto& obs : obstacles) {
             u.insert({obs[0], obs[1]});
         }
-        int x = 0, y = 0, i = 0;
+        int x=0;
+        int y=0;
+        int i=0;
         for (auto& p : commands) {
             if (p == -1) i=(i+1)%4;
             else if (p == -2) i=(i+3)%4;
