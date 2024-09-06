@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0460-lfu-cache) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vihanagarwal18/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vihanagarwal18/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/vihanagarwal18/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vihanagarwal18/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
