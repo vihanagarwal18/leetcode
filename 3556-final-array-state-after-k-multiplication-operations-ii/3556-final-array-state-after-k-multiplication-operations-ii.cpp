@@ -3,13 +3,12 @@ public:
     const int modulo = pow(10, 9) + 7;
     const int mod = 1e9 + 7;
     long long power_mod(long long base, long long exp, long long mod) {
+        //It uses the property that any exponent can be represented as a sum of powers of 2.
         long long result = 1;
-        while (exp > 0) {
-            if (exp % 2 == 1) {
-                result = (result * base) % mod;
-            }
-            base = (base * base) % mod;
-            exp = exp / 2;
+        while (exp>0) {
+            if (exp%2==1) result=(result*base)%mod;
+            base=(base*base)%mod;
+            exp=exp/2;
         }
         return result;
     }
@@ -59,7 +58,7 @@ public:
             pq.pop();
         }
         for (int i = 0; i < nums.size(); i++) {
-            long long mlt = power_mod(multiplier, mp[i], mod);
+            long long mlt = power_mod(multiplier, mp[i], mod); //no. with which we will multiply our number in nums
             v1[i] = ((v1[i] % mod) * (mlt % mod)) % mod;
             nums[i] = v1[i];
         }
