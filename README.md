@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/vihanagarwal18/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/vihanagarwal18/leetcode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/vihanagarwal18/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vihanagarwal18/leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
