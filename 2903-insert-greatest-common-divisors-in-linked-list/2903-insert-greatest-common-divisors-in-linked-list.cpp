@@ -26,7 +26,7 @@ public:
         while(secondnode!=NULL && firstnode!=NULL){
             ListNode* nextnode=secondnode->next;
             // int g=gcd(secondnode->val,firstnode->val);
-            int g=__gcd(secondnode->val,firstnode->val);
+            int g=__gcd(secondnode->val,firstnode->val); //inbuilt function
             ListNode* temp=new ListNode(g);
             firstnode->next=temp;
             temp->next=secondnode;
