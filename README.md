@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/vihanagarwal18/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/vihanagarwal18/leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/vihanagarwal18/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/vihanagarwal18/leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/vihanagarwal18/leetcode/tree/master/0198-house-robber) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vihanagarwal18/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/vihanagarwal18/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vihanagarwal18/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vihanagarwal18/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vihanagarwal18/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vihanagarwal18/leetcode/tree/master/0066-plus-one) |
+| [0149-max-points-on-a-line](https://github.com/vihanagarwal18/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/vihanagarwal18/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vihanagarwal18/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -603,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vihanagarwal18/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vihanagarwal18/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
