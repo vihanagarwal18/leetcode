@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vihanagarwal18/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/vihanagarwal18/leetcode/tree/master/0394-decode-string) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/vihanagarwal18/leetcode/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0392-is-subsequence) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vihanagarwal18/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vihanagarwal18/leetcode/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/vihanagarwal18/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/vihanagarwal18/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vihanagarwal18/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -545,11 +548,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vihanagarwal18/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/vihanagarwal18/leetcode/tree/master/0394-decode-string) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/vihanagarwal18/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/vihanagarwal18/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Graph
