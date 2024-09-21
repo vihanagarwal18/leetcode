@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vihanagarwal18/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/vihanagarwal18/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0437-path-sum-iii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vihanagarwal18/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/vihanagarwal18/leetcode/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Recursion
 |  |
 | ------- |
