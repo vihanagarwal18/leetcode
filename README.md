@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/vihanagarwal18/leetcode/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/vihanagarwal18/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/vihanagarwal18/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/vihanagarwal18/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/vihanagarwal18/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/vihanagarwal18/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0859-design-circular-deque](https://github.com/vihanagarwal18/leetcode/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0898-transpose-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/vihanagarwal18/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/vihanagarwal18/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/vihanagarwal18/leetcode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/vihanagarwal18/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/vihanagarwal18/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Binary Search Tree
@@ -492,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vihanagarwal18/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
+| [0859-design-circular-deque](https://github.com/vihanagarwal18/leetcode/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/vihanagarwal18/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 ## Monotonic Queue
