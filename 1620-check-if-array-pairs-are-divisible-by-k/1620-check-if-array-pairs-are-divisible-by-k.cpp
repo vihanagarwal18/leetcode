@@ -7,9 +7,7 @@ public:
         unordered_map<int,int> m;
         for(auto & p:arr){
             if(p<0){
-                while(p<0){
-                    p+=k;
-                }
+                p=p%k +k;
             }
             int temp=p%k;
             m[temp]++;
