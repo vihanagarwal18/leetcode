@@ -1,13 +1,10 @@
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
-        //odd +odd is even
-        //even + odd is odd
-        //even +even is even
         unordered_map<int,int> m;
         for(auto & p:arr){
             if(p<0){
-                p=p%k +k;
+                p=p%k +k; // -7%5 gives -2 add k one more time
             }
             int temp=p%k;
             m[temp]++;
