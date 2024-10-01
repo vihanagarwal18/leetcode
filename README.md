@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/vihanagarwal18/leetcode/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vihanagarwal18/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vihanagarwal18/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1447-jump-game-iv](https://github.com/vihanagarwal18/leetcode/tree/master/1447-jump-game-iv) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vihanagarwal18/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vihanagarwal18/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vihanagarwal18/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vihanagarwal18/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vihanagarwal18/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vihanagarwal18/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/vihanagarwal18/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
