@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
 | [1833-find-the-highest-altitude](https://github.com/vihanagarwal18/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/vihanagarwal18/leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/vihanagarwal18/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/vihanagarwal18/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/vihanagarwal18/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/vihanagarwal18/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2427-first-letter-to-appear-twice](https://github.com/vihanagarwal18/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vihanagarwal18/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vihanagarwal18/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vihanagarwal18/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
