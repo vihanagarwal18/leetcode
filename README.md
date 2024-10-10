@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
+| [1002-maximum-width-ramp](https://github.com/vihanagarwal18/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vihanagarwal18/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vihanagarwal18/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vihanagarwal18/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/vihanagarwal18/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/vihanagarwal18/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vihanagarwal18/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -692,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/vihanagarwal18/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0731-my-calendar-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/vihanagarwal18/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
