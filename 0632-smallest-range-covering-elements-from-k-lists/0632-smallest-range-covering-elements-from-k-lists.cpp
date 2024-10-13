@@ -10,13 +10,11 @@ public:
     vector<int> smallestRange(vector<vector<int>>& nums) {
         int n=nums.size();
         priority_queue<vector<int>,vector<vector<int>>,comp> minheap;
-        // priority_queue<pair<int,int>> maxheap;
         int maximum=INT_MIN;
         vector<int> index(n,0); 
         for(int i=0;i<n;i++){
             minheap.push({nums[i][0],i,1});
             if(nums[i][0]>maximum) maximum=nums[i][0];
-            // maxheap.push_back({nums[i][0],i});
         }
         bool flag=true;
         vector<int> result={minheap.top()[0],maximum};
