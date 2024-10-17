@@ -13,10 +13,9 @@ public:
             int right=i+1;
             for(int j=right;j<n;j++){
                 if(number[j]>number[i]){
-                    // string tem=number;
-                    swap(number[i],number[j]);
-                    result=max(result,stoi(number));
-                    swap(number[i],number[j]);
+                    string tem=number;
+                    swap(tem[i],tem[j]);
+                    result=max(result,stoi(tem));
                 }
             }
         }
