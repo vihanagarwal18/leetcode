@@ -1,7 +1,7 @@
 class Solution {
 public:
     //this code has time complexity of O(2^N)
-    int solve(vector<int>& nums,int index,int value,int& maxx,int n){
+    int solve(vector<int>& nums,int index,int value,int& maxx,int& n){
         if(value==maxx){
             return pow(2,n-index);
             //eske andar we took the subset till index ,then since this subset already makes maxx
