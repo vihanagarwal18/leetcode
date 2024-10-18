@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/vihanagarwal18/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/vihanagarwal18/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/vihanagarwal18/leetcode/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vihanagarwal18/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/vihanagarwal18/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/vihanagarwal18/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/vihanagarwal18/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0113-path-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vihanagarwal18/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/vihanagarwal18/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/vihanagarwal18/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vihanagarwal18/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vihanagarwal18/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/vihanagarwal18/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vihanagarwal18/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/vihanagarwal18/leetcode/tree/master/2122-count-special-quadruplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vihanagarwal18/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Number Theory
 |  |
 | ------- |
