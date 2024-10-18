@@ -15,4 +15,6 @@ public:
         for(auto& p:nums) maxx|=p; //this is the max possible or
         return solve(nums,0,0,maxx,n);
     }
+
+    //this code has time complexity of O(2^N)
 };
