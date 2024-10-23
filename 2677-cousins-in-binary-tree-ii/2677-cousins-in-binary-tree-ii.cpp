@@ -17,7 +17,7 @@ public:
             if(cur.first->left) q.push({cur.first->left,cur.first});
             if(cur.first->right) q.push({cur.first->right,cur.first});
         }
-        for(auto& it:cousins) it.first->val=totalsum-mp[it.second];
+        for(auto it:cousins) it.first->val=totalsum-mp[it.second];
        }
        return root; 
     }
