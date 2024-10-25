@@ -7,7 +7,7 @@ public:
         vector<string> result;
         result.push_back(folder[0]);
         u.insert(folder[0]);
-        for(int i=0;i<n;i++){
+        for(int i=1;i<n;i++){
             string t=folder[i];
             int j=1;
             string str="/";
