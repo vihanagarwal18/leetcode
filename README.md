@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vihanagarwal18/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/vihanagarwal18/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/vihanagarwal18/leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/vihanagarwal18/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/vihanagarwal18/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/vihanagarwal18/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Simulation
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/vihanagarwal18/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2586-longest-square-streak-in-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/vihanagarwal18/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/vihanagarwal18/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Stack
 |  |
