@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/vihanagarwal18/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/vihanagarwal18/leetcode/tree/master/1127-last-stone-weight) |
 | [1240-stone-game-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/vihanagarwal18/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vihanagarwal18/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vihanagarwal18/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/vihanagarwal18/leetcode/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/vihanagarwal18/leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/vihanagarwal18/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
