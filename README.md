@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/vihanagarwal18/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/vihanagarwal18/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3451-string-compression-iii](https://github.com/vihanagarwal18/leetcode/tree/master/3451-string-compression-iii) |
 ## Backtracking
 |  |
 | ------- |
