@@ -7,7 +7,7 @@ public:
             int index=0;
             while(p>0){
                 if(p&1==1)  bitscount[index]++;
-                p=p/2;
+                p=p>>1;
                 index++;
             }
         }
