@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vihanagarwal18/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vihanagarwal18/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3031-construct-product-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/3031-construct-product-matrix) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/vihanagarwal18/leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/vihanagarwal18/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3031-construct-product-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/3031-construct-product-matrix) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/vihanagarwal18/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Simulation
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/vihanagarwal18/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vihanagarwal18/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3031-construct-product-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/3031-construct-product-matrix) |
 ## Game Theory
 |  |
 | ------- |
