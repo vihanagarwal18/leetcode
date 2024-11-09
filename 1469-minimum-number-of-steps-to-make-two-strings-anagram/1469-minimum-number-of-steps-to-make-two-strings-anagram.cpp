@@ -3,7 +3,7 @@ public:
     int minSteps(string s, string t) {
         map<char,int> m1;
         map<char,int> m2;
-        set<char> u;
+        unordered_set<char> u;
         for(auto& p:s){
             m1[p]++;
             u.insert(p);
