@@ -1,13 +1,13 @@
 class Solution {
 public:
-    bool check(vector<long long>& count,int target){
+    bool check(vector<long long>& count,int& k){
         int result=0;
         for(int i=0;i<32;i++){
             if(count[i]>0){
                 result=result | (1<<i);
             }
         }
-        if(result>=target) return true;
+        if(result>=k) return true;
         return false;
     }
     int minimumSubarrayLength(vector<int>& nums, int k) {
