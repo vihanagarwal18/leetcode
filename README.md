@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3031-construct-product-matrix](https://github.com/vihanagarwal18/leetcode/tree/master/3031-construct-product-matrix) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/vihanagarwal18/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/vihanagarwal18/leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/vihanagarwal18/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/vihanagarwal18/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/vihanagarwal18/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Math
 |  |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vihanagarwal18/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
 | ------- |
