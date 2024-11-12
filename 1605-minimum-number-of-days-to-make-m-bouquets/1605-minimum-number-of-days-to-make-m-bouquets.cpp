@@ -1,9 +1,6 @@
 class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-        // long long flowerneeded=m*k;
-        int n=bloomDay.size();
-        // if(flowerneeded>n) return -1;
         int left=0;
         int right=*max_element(bloomDay.begin(),bloomDay.end());
         int result=INT_MAX;
