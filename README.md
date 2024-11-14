@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/vihanagarwal18/leetcode/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/vihanagarwal18/leetcode/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vihanagarwal18/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/vihanagarwal18/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vihanagarwal18/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vihanagarwal18/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/vihanagarwal18/leetcode/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vihanagarwal18/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vihanagarwal18/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vihanagarwal18/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vihanagarwal18/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vihanagarwal18/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vihanagarwal18/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vihanagarwal18/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vihanagarwal18/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
