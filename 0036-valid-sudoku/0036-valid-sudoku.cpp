@@ -4,7 +4,7 @@ public:
         //9 for rows
         // 9 for column
         //9 for each box
-        vector<vector<set<char>>> vect(3,vector<set<char>>(9));
+        vector<vector<unordered_set<char>>> vect(3,vector<unordered_set<char>>(9));
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
                 if(board[i][j]=='.') continue;
