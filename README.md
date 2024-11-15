@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vihanagarwal18/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vihanagarwal18/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vihanagarwal18/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/vihanagarwal18/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1814-jump-game-vi](https://github.com/vihanagarwal18/leetcode/tree/master/1814-jump-game-vi) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vihanagarwal18/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vihanagarwal18/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vihanagarwal18/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/vihanagarwal18/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/vihanagarwal18/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/vihanagarwal18/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/vihanagarwal18/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vihanagarwal18/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/vihanagarwal18/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vihanagarwal18/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/vihanagarwal18/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/vihanagarwal18/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -849,4 +853,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/vihanagarwal18/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
