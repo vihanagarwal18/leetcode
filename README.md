@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vihanagarwal18/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/vihanagarwal18/leetcode/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/vihanagarwal18/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vihanagarwal18/leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vihanagarwal18/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0649-dota2-senate](https://github.com/vihanagarwal18/leetcode/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/vihanagarwal18/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/vihanagarwal18/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vihanagarwal18/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vihanagarwal18/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vihanagarwal18/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/vihanagarwal18/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0678-valid-parenthesis-string](https://github.com/vihanagarwal18/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/vihanagarwal18/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/vihanagarwal18/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vihanagarwal18/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/vihanagarwal18/leetcode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/vihanagarwal18/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vihanagarwal18/leetcode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/vihanagarwal18/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vihanagarwal18/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
