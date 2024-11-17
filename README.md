@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vihanagarwal18/leetcode/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
 | [0921-spiral-matrix-iii](https://github.com/vihanagarwal18/leetcode/tree/master/0921-spiral-matrix-iii) |
+| [0958-sort-array-by-parity-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/vihanagarwal18/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/vihanagarwal18/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vihanagarwal18/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0876-hand-of-straights](https://github.com/vihanagarwal18/leetcode/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
 | [1256-rank-transform-of-an-array](https://github.com/vihanagarwal18/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/vihanagarwal18/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/vihanagarwal18/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/vihanagarwal18/leetcode/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/vihanagarwal18/leetcode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/vihanagarwal18/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0985-bag-of-tokens](https://github.com/vihanagarwal18/leetcode/tree/master/0985-bag-of-tokens) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/vihanagarwal18/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
