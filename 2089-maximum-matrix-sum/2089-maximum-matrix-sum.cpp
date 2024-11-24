@@ -7,10 +7,7 @@ public:
         int mini=INT_MAX;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(matrix[i][j]<0){
-                    vect.push_back(abs(matrix[i][j]));
-                    
-                }
+                if(matrix[i][j]<0)  vect.push_back(abs(matrix[i][j]));
                 sum+=abs(matrix[i][j]);
                 mini=min(mini,abs(matrix[i][j]));
             }
