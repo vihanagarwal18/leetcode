@@ -4,14 +4,9 @@ public:
         queue<pair<int, pair<vector<vector<int>>, pair<int, int>>>> q; 
         vector<vector<int>> required={{1,2,3},{4,5,0}};
         if (board==required) return 0;
-        int startx=-1;
-        int starty=-1;
-
         for(int i=0;i<2;i++){
             for(int j=0;j<3;j++){
                 if(board[i][j]==0){
-                    startx=i;
-                    starty=j;
                     q.push({0,{board,{i,j}}});
                     break;
                 }
