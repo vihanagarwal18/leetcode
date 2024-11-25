@@ -26,7 +26,8 @@ public:
             int x=q.front().second.second.first;
             int y=q.front().second.second.second;
             q.pop();
-            if(p==required) result=min(result,steps);
+            // if(p==required) result=min(result,steps);
+            if(p==required) return steps;
             for(int i=0;i<4;i++){
                 int r=x+direc[i][0];
                 int c=y+direc[i][1];
