@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3413-find-the-first-player-to-win-k-games-in-a-row](https://github.com/vihanagarwal18/leetcode/tree/master/3413-find-the-first-player-to-win-k-games-in-a-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/vihanagarwal18/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vihanagarwal18/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/vihanagarwal18/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vihanagarwal18/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vihanagarwal18/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/vihanagarwal18/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/vihanagarwal18/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vihanagarwal18/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Queue
 |  |
 | ------- |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/vihanagarwal18/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/vihanagarwal18/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/vihanagarwal18/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
