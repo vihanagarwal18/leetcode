@@ -26,6 +26,7 @@ public:
                         u.insert({time+1,r,c});
                     }
                     else{
+                        //agei peeche ghumke time pass karke chale gye {r,c} pe
                         int rem=grid[r][c]-time;
                         if(rem%2==0){
                             u.insert({grid[r][c]+1,r,c});
