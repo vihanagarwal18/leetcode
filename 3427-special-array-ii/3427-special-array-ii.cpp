@@ -13,8 +13,7 @@ public:
         }
         vector<bool> result;
         for(auto& p:queries){
-            if(p[0]==p[1]) result.push_back(true);
-            else if(prefixcountpair[p[1]]-prefixcountpair[p[0]]==p[1]-p[0]) result.push_back(true);
+            if(prefixcountpair[p[1]]-prefixcountpair[p[0]]==p[1]-p[0]) result.push_back(true);
             else result.push_back(false);
         }
         return result;
