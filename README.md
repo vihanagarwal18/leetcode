@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vihanagarwal18/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/vihanagarwal18/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/vihanagarwal18/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/vihanagarwal18/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3427-special-array-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/vihanagarwal18/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Tree
 |  |
 | ------- |
