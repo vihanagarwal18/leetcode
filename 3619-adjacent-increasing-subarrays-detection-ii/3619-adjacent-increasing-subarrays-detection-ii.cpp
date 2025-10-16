@@ -24,12 +24,6 @@ public:
         }
 
         // now we will check can one single array create 2 max arrays
-
-        // if(max_array%2==0){
-            result=max(result,max_array/2);
-        // }
-        // else result=max(result,(max_array+1)/2);
-
-        return result;
+        return result=max(result,max_array/2);
     }
 };
