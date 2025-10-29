@@ -846,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/vihanagarwal18/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3394-minimum-array-end](https://github.com/vihanagarwal18/leetcode/tree/master/3394-minimum-array-end) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/vihanagarwal18/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vihanagarwal18/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Math
 |  |
 | ------- |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/vihanagarwal18/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/vihanagarwal18/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/vihanagarwal18/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/vihanagarwal18/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
 |  |
 | ------- |
